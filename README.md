@@ -2,6 +2,8 @@
 
 🛒 E-Commerce Website using React : This project is a modern E-Commerce website built with React.js, showcasing a functional shopping experience with product listings, cart management, and a responsive design. It's designed as a front-end application for an online shopping platform.
 
+![image](https://github.com/Aditya-swg/E-Commerce-Website-using-React/blob/main/Screenshot%20(44).png)
+
 🌟 Features
 - 🔎 Search Bar – Search products with an elegant input field and search icon.
 - 📱 Product Categories – Easily switch between categories: Mobiles, Laptops, Tablets, Watches.
